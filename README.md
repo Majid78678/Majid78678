@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MajidChoudhury
 - 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning  NEET
+- 🌱 I’m currently learning  B.Tech
 - 📫 How to reach me ...
 
 
